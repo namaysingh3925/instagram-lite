@@ -1,16 +1,16 @@
-# 📸 Instagram Lite
+# Instagram Lite
 
 A streamlined, robust backend and database architecture for a social media platform inspired by Instagram, built with **Node.js**, **MongoDB**, and **Mongoose ODM**.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **Instagram Lite** implements the core database design, relationships, indexing strategies, and CRUD business logic needed for a scalable social media backend. It demonstrates real-world data modeling patterns including user authentication schemas, post feeds, social graph connections (followers/following), likes with uniqueness constraints, and comment threads.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 👤 **User Management**: User registration, profile customization (bio, avatar), and validation.
 - 🖼️ **Post Management**: Post creation with image URLs and captions, populated with author details.
@@ -23,7 +23,7 @@ A streamlined, robust backend and database architecture for a social media platf
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Runtime**: [Node.js](https://nodejs.org/)
 - **Database**: [MongoDB](https://www.mongodb.com/)
@@ -32,7 +32,7 @@ A streamlined, robust backend and database architecture for a social media platf
 
 ---
 
-## 🗄️ Database Architecture & Schemas
+## Database Architecture & Schemas
 
 ### Entity Relationship Diagram (ERD)
 
@@ -92,7 +92,7 @@ erDiagram
 
 ---
 
-## ⚡ Indexing & Optimization Strategy
+##  Indexing & Optimization Strategy
 
 To ensure peak performance as data scales, the following index design is applied:
 
@@ -139,7 +139,7 @@ instagram-lite/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
