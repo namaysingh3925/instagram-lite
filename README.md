@@ -12,14 +12,14 @@ A streamlined, robust backend and database architecture for a social media platf
 
 ##  Features
 
-- 👤 **User Management**: User registration, profile customization (bio, avatar), and validation.
-- 🖼️ **Post Management**: Post creation with image URLs and captions, populated with author details.
-- ❤️ **Like System**: Like/unlike functionality with compound unique indexes to eliminate duplicate likes.
-- 💬 **Comment System**: Comment threads attached to posts with author referencing and chronological sorting.
-- 👥 **Social Graph (Follow System)**: Follow/unfollow mechanism with self-follow prevention and fast bidirectional lookups.
-- 📰 **Dynamic Feed Generation**: Personalized feed showing latest posts from followed users.
-- 📊 **Profile Aggregation**: Comprehensive profile view compiling user details, posts, post count, follower count, and following count.
-- ⚡ **Optimized Indexing**: Strategic compound and unique indexes for fast lookups and high query performance.
+-  **User Management**: User registration, profile customization (bio, avatar), and validation.
+-  **Post Management**: Post creation with image URLs and captions, populated with author details.
+-  **Like System**: Like/unlike functionality with compound unique indexes to eliminate duplicate likes.
+-  **Comment System**: Comment threads attached to posts with author referencing and chronological sorting.
+-  **Social Graph (Follow System)**: Follow/unfollow mechanism with self-follow prevention and fast bidirectional lookups.
+-  **Dynamic Feed Generation**: Personalized feed showing latest posts from followed users.
+-  **Profile Aggregation**: Comprehensive profile view compiling user details, posts, post count, follower count, and following count.
+-  **Optimized Indexing**: Strategic compound and unique indexes for fast lookups and high query performance.
 
 ---
 
@@ -108,7 +108,7 @@ To ensure peak performance as data scales, the following index design is applied
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 instagram-lite/
@@ -203,7 +203,7 @@ node 7-profile-query.js
 
 ---
 
-## 🗺️ Roadmap & Planned Extensions
+## Roadmap & Planned Extensions
 
 - [x] Core MongoDB schemas & validation
 - [x] CRUD operations for Users, Posts, Likes, Comments, and Follows
@@ -218,13 +218,13 @@ node 7-profile-query.js
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Namay Singh**  
 GitHub: [@namaysingh3925](https://github.com/namaysingh3925)
