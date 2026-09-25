@@ -1,0 +1,40 @@
+API Contract
+
+Authentication
+Method	Endpoint	Purpose
+POST	/api/auth/register	Register user
+POST	/api/auth/login	Login
+
+Users
+Method	Endpoint	Purpose
+GET	/api/users/:id	Get profile
+PUT	/api/users/:id	Update own profile
+GET	/api/users/search?q=	Search users
+
+Posts
+Method	Endpoint	Purpose
+POST	/api/posts	Create post
+GET	/api/posts/:id	Get post
+PUT	/api/posts/:id	Update own post
+DELETE	/api/posts/:id	Delete own post
+
+Feed
+Method	Endpoint	Purpose
+GET	/api/feed	Get logged-in user's feed
+
+Likes
+Method	Endpoint	Purpose
+POST	/api/posts/:id/like	Like post
+DELETE	/api/posts/:id/like	Unlike post
+
+Comments
+Method	Endpoint	Purpose
+POST	/api/posts/:id/comments	Add comment
+GET	/api/posts/:id/comments	Get comments
+DELETE	/api/comments/:id	Delete own comment
+
+Follow
+Method	Endpoint	Purpose
+POST	/api/users/:id/follow	Follow user
+DELETE	/api/users/:id/follow	Unfollow user
+

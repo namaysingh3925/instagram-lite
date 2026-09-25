@@ -1,0 +1,35 @@
+STEP 1
+Requirements
+   ↓
+STEP 2
+Identify Entities & Relationships
+   ↓
+STEP 3
+Mongoose Schemas
+   ↓
+STEP 4
+MongoDB CRUD using Node.js
+   ↓
+STEP 5
+Business Logic
+   ↓
+STEP 6
+Express REST APIs
+   ↓
+STEP 7
+Authentication & Authorization
+   ↓
+STEP 8
+React UI
+   ↓
+STEP 9
+API Integration
+   ↓
+STEP 10
+Complete Instagram Lite
+   ↓
+STEP 11
+Student Extension
+   ↓
+STEP 12
+Evaluation
