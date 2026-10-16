@@ -1,0 +1,75 @@
+Technical requirement:
+
+Backend
+ MongoDB database configured
+ Mongoose schemas implemented
+ CRUD operations working
+ Express REST APIs implemented
+ Authentication implemented
+ Authorization implemented
+ Validation implemented
+ Error handling implemented
+ Likes implemented
+ Comments implemented
+ Follow/unfollow implemented
+ Feed implemented
+
+Frontend
+ Registration page
+ Login page
+ Home/feed page
+ Create post
+ Edit/delete post
+ Like/unlike
+ Comments
+ User search
+ Profile page
+ Follow/unfollow
+ API integration
+ Authentication state handling
+
+
+Functional Requirements:
+
+Scope
+
+The mandatory version of Instagram Lite contains the following modules:
+
+1. User 
+   Register, Login, Profile
+
+2. Posts 
+   Create, View, Update, Delete
+
+3. Feed	
+   View posts from users
+
+4. Likes	
+   Like / Unlike posts
+
+5. Comments	
+   Add / View / Delete comments	
+
+6. Follow	
+   Follow / Unfollow users	
+
+7. Profile	
+   User's posts, followers, following	
+
+8. Authentication, Authorization and Validation
+
+Extension opportunities:
+
+Direct messaging
+Notifications
+Hashtags
+Saved posts
+Explore/recommendation engine
+Multiple images per post
+Blocking
+Infinite scrolling
+Private accounts
+Search by hashtag
+Stories
+AI features
+Real-time features

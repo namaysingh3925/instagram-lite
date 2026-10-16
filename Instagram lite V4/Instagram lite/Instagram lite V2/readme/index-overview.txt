@@ -1,0 +1,16 @@
+users
+- UNIQUE username
+- UNIQUE email
+
+posts
+- author + createdAt
+
+comments
+- post + createdAt
+
+likes
+- UNIQUE user + post
+
+follows
+- UNIQUE follower + following
+- following

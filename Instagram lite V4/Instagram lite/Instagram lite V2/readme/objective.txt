@@ -1,0 +1,15 @@
+The objective of this project is to build Instagram Lite, a simplified social-media application using the MERN stack.
+
+Students will first implement a common set of mandatory features. Once the core application is complete, each student/team must add one or more additional features of their choice.
+
+The project evaluates the student's ability to:
+
+Design MongoDB data models
+Build CRUD operations using Mongoose
+Develop REST APIs using Express.js
+Implement authentication and authorization
+Handle relationships between users, posts, likes, comments, and follows
+Build a React frontend
+Implement validation and business rules
+Design clean and maintainable code
+Extend an existing application with additional functionality
